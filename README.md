@@ -1,3 +1,3 @@
 # library-manger
 
-A book collection manger where you can add, remove, and update books.
+A book collection manager where you can add, remove, and update books.
